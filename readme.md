@@ -9,6 +9,7 @@ pip install scikit-learn
 pip install numpy
 pip install tqdm
 pip install matplotlib
+```
 
 ##Run:
 code/HMM.ipynb
