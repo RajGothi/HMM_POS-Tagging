@@ -24,3 +24,6 @@ NLP_ass2_presentation.pptx
 ## Other files
 Show the plots of results.
 
+## Confusion Matrix
+![Confusion Matrix](mean_confusion_matrix.png)
+
