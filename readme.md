@@ -12,7 +12,7 @@ pip install matplotlib
 ```
 
 ## Run:
-code/HMM.ipynb
+HMM.ipynb
 
 
 ## Report
