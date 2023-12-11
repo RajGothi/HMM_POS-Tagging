@@ -18,9 +18,9 @@ HMM.ipynb contains the code.
 ## Report
 pos report.pdf contains the all the results and detailed error analysis.
 
-## PPT:
+## PPT
 NLP_ass2_presentation.pptx
 
-## other files:
+## Other files
 Show the plots of results.
 
