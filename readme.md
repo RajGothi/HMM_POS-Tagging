@@ -19,7 +19,7 @@ HMM.ipynb
 pos report.pdf contains the all the results and detailed error analysis.
 
 ## PPT:
-HMM_assignment_2.pptx
+NLP_ass2_presentation.pptx
 
 ## other files:
 Show the plots of results.
