@@ -11,16 +11,16 @@ pip install tqdm
 pip install matplotlib
 ```
 
-##Run:
+## Run:
 code/HMM.ipynb
 
 
-##Report
+## Report
 pos report.pdf contains the all the results and detailed error analysis.
 
-##PPT:
+## PPT:
 HMM_assignment_2.pptx
 
-##other files:
+## other files:
 Show the plots of results.
 
