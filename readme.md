@@ -1,4 +1,4 @@
-# Hidden Markov Model Assignment
+# POS Tagging by Hidden Markov Model
 
 ## Tools Installation
 Ensure you have the required Python libraries installed by running the following commands:
