@@ -11,8 +11,8 @@ pip install tqdm
 pip install matplotlib
 ```
 
-## Run:
-HMM.ipynb
+## Code
+HMM.ipynb contains the code.
 
 
 ## Report
