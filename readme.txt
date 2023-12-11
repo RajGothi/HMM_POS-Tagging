@@ -17,3 +17,16 @@ HMM_assignment_2.pptx
 
 other files:
 Show the plots of results.
+
+
+# Hidden Markov Model Assignment
+
+## Tools Installation
+Ensure you have the required Python libraries installed by running the following commands:
+
+```bash
+pip install nltk
+pip install scikit-learn
+pip install numpy
+pip install tqdm
+pip install matplotlib
